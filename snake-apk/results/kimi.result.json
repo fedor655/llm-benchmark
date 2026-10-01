@@ -1,0 +1,14 @@
+{
+ "name": "kimi",
+ "model": "kimi-k3",
+ "status": "finished",
+ "turns": 7,
+ "seconds": 898,
+ "tokens_in": 107290,
+ "tokens_out": 21578,
+ "builds": [
+  "exit code 1",
+  "exit code 0"
+ ],
+ "apk": "C:\\Users\\semin\\snake-bench\\kimi\\app\\build\\outputs\\apk\\debug\\app-debug.apk"
+}

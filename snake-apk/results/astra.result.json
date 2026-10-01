@@ -1,0 +1,14 @@
+{
+ "name": "astra",
+ "model": "gpt-6-astra",
+ "status": "finished",
+ "turns": 8,
+ "seconds": 286,
+ "tokens_in": 72958,
+ "tokens_out": 6538,
+ "builds": [
+  "exit code 1",
+  "exit code 0"
+ ],
+ "apk": "C:\\Users\\semin\\snake-bench\\astra\\app\\build\\outputs\\apk\\debug\\app-debug.apk"
+}

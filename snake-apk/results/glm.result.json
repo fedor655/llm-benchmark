@@ -1,0 +1,14 @@
+{
+ "name": "glm",
+ "model": "glm-5.3",
+ "status": "finished",
+ "turns": 14,
+ "seconds": 982,
+ "tokens_in": 572087,
+ "tokens_out": 55207,
+ "builds": [
+  "exit code 1",
+  "exit code 0"
+ ],
+ "apk": "C:\\Users\\semin\\snake-bench\\glm\\app\\build\\outputs\\apk\\debug\\app-debug.apk"
+}

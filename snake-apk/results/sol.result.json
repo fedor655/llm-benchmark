@@ -1,0 +1,17 @@
+{
+ "name": "sol",
+ "model": "gpt-6.1-sol",
+ "status": "finished",
+ "turns": 14,
+ "seconds": 724,
+ "tokens_in": 139717,
+ "tokens_out": 8034,
+ "builds": [
+  "exit code 1",
+  "exit code 1",
+  "exit code 1",
+  "exit code 1",
+  "exit code 0"
+ ],
+ "apk": "C:\\Users\\semin\\snake-bench\\sol\\app\\build\\outputs\\apk\\debug\\app-debug.apk"
+}
